@@ -7,4 +7,9 @@ Class Say
 	{
 		return "hello world";
 	}
+
+	public static function version()
+	{
+		return "1.0";
+	}
 }
