@@ -10,6 +10,6 @@ Class Say
 
 	public static function version()
 	{
-		return "1.0";
+		return "1.1";
 	}
 }
